@@ -1,3 +1,5 @@
+[![CI](https://github.com/RukiDV/text_utils/actions/workflows/ci.yml/badge.svg)](https://github.com/RukiDV/text_utils/actions/workflows/ci.yml)
+
 # Write a Workflow
 
 (difficulty: 🔥)
